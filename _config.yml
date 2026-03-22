@@ -23,7 +23,7 @@ repository               : "liangtianhao-hit/liangtianhao-hit.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "tianhao.jpg"
   name             : "Tianhao Liang"
   pronouns         : # example: "she/her"  
   bio              : "Research Associate"
