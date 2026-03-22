@@ -1,8 +1,15 @@
+---
+permalink: /
+title: "Brief Bio"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
+I received the Ph.D. degree in information and communication engineering from Harbin Institute of Technology (Shenzhen), China, in 2024 (##Supervisor##: Prof. Tingting Zhang), where he is currently an associate research fellow. From March 2023 to July 2023, he was a visiting student in the Department of Electronic Engineering and Beijing National Research Center for Information Science and Technology, Tsinghua University (##Advisor##: Sheng Zhou and Zhishen Niu). He is currently also a visiting scholar with Information System Technology and Design, Singapore University of Technology and Design, Singapore (Advisor: Tony Q.S. Quek). 
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+His main research interests include low altitude networks, integration of localization and communications, and multi-UAV control. Dr. Liang was a co-chair for IEEE VTC-2025 fall workshop. He was a recipient of the Shenzhen Excellent Science \& Technology Academic paper. As a team leader, he received the Honorary Mention in the 2022 IEEE ComSoc Student Competition. He serves as a TPC member of several conferences, such as IEEE Globecom, IEEE ICC, IEEE WCNC. He is also a reviewer of several journals, such as IEEE TWC, IEEE TCOM, IEEE TITS, IEEE WCL and etc.
 
 A data-driven personal website
 ======
